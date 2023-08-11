@@ -15,8 +15,6 @@ Welcome to my GitHub profile!<br> I am a skilled web and mobile app developer wi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=covenantcodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=covenantcodes)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
